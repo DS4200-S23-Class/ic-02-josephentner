@@ -1,0 +1,19 @@
+html {
+    font: Arial;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.container {
+    border: solid black;
+}
+
+#p1 {
+    font: dark green;
+}
+
+#rect {
+    filter: grayscale(100%);
+}
